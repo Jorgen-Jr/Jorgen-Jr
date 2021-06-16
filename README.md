@@ -1,2 +1,2 @@
-# Jorgen-Jr-
-Profile Repository.
+# Jorge Antônio
+> A brazilian fullstack developer in love with web technologies
