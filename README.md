@@ -1,4 +1,4 @@
-# Jorge Antônio
+# Jorge Nascimento
 A brazilian fullstack developer in love with web technologies
 
 _"Pet a cat when you encounter one on the street"_
