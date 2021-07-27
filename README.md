@@ -1,7 +1,7 @@
 # Jorge Nascimento
 A brazilian fullstack developer in love with web technologies
 
-[![Blog & Portfolio - Image by DavidRockDesign from Pixabay](https://raw.githubusercontent.com/Jorgen-Jr/Jorgen-Jr/main/images/banner_blog_portfolio.png)](https://jorgen-jr.github.io/)
+[![Blog & Portfolio - Background Image by DavidRockDesign from Pixabay](https://raw.githubusercontent.com/Jorgen-Jr/Jorgen-Jr/main/images/banner_blog_portfolio.png)](https://jorgen-jr.github.io/)
 
 _"Pet a cat when you encounter one on the street"_
 
